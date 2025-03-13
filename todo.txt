@@ -1,1 +1,2 @@
-- Terminer le projet Git - Préparer la présentation
+- Terminer le projet Git 
+- Finir le Raport du tp
